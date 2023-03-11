@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialBase", "MaterialBase.csproj", "{11FC6D82-EC6F-4182-B048-C62F33B568BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unittest", "..\unittest\unittest.csproj", "{211FFC68-DB20-4A00-A866-F27EAFBE73C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11FC6D82-EC6F-4182-B048-C62F33B568BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11FC6D82-EC6F-4182-B048-C62F33B568BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11FC6D82-EC6F-4182-B048-C62F33B568BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11FC6D82-EC6F-4182-B048-C62F33B568BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211FFC68-DB20-4A00-A866-F27EAFBE73C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211FFC68-DB20-4A00-A866-F27EAFBE73C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211FFC68-DB20-4A00-A866-F27EAFBE73C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211FFC68-DB20-4A00-A866-F27EAFBE73C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81BA3552-D754-4CAA-A7CD-58B6CE3575AF}
+	EndGlobalSection
+EndGlobal
